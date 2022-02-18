@@ -1,0 +1,13 @@
+This project is public domain.
+
+The script modifies some performance-focused system settings.
+After that, it execuets Windows 10 Debloater and then proceeds
+to install the following software:
+
+ - Chromium
+ - AltDrag
+ - IrfanView
+ - Visual Studio Code
+ - Steam
+ - Oculus
+
